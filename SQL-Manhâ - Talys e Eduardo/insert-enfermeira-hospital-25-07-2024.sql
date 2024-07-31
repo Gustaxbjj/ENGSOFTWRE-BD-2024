@@ -1,0 +1,1 @@
+insert into enfermeira(cre, nome) values("1233", "joao")
